@@ -139,7 +139,7 @@ span {
         overflow: hidden;
     }
     section {
-        background-image: url(file:///C:/Users/user/Desktop/newsletter/illustration-sign-up-mobile.svg);
+        background-image: url(./illustration-sign-up-mobile.svg);
         background-repeat: no-repeat center;
         background-size: cover;
         height: 200px;
