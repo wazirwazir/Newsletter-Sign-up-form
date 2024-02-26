@@ -112,9 +112,12 @@ span {
 }
 @media (max-width: 810px) {
     h1 {
-        font-size: 1.8em;
+        font-size: 2.5em;
         display: flex;
         flex-wrap: wrap;
+    }
+ .container2 h1 {
+        font-size: 1.9em;
     }
 }
 @media (max-width: 658px) {
