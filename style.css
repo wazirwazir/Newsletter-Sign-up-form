@@ -94,7 +94,7 @@ h1 {
     border-radius: 15px;
     width: 40%;
     max-width: 300px;
-    height: 330px;
+    height: 350px;
 }
 .container2 h1 {
     font-size: 2.5em;
@@ -140,7 +140,7 @@ span {
         overflow: hidden;
     }
     section {
-        background-image: url(./illustration-sign-up-mobile.svg);
+        background-image: url(file:///C:/Users/user/Desktop/newsletter/illustration-sign-up-mobile.svg);
         background-repeat: no-repeat center;
         background-size: cover;
         height: 200px;
